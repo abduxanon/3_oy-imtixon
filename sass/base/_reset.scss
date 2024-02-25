@@ -163,6 +163,7 @@ body {
     line-height: 100px;
     letter-spacing: 0px;
     text-align: left;
+    color: #fff;
   }
   .talant {
     color: rgb(246, 126, 126);
@@ -310,6 +311,7 @@ body {
     top: 175px;
     bottom: -1008px;
   }
+
   .brat2_text-p {
     /* Easy to Implement */
     position: absolute;
@@ -793,6 +795,9 @@ body {
     letter-spacing: 0px;
     text-align: left;
   }
+  .nav-item-li:hover {
+    color: aqua;
+  }
   .nav_div {
     /* Group 3 */
     position: absolute;
@@ -826,6 +831,9 @@ body {
     bottom: 76px;
     display: flex;
     gap: 15px;
+  }
+  .olp:hover {
+    background-color: aqua;
   }
   .pl {
     left: 10px;
@@ -1083,6 +1091,10 @@ body {
     top: 225px;
     bottom: -225px;
   }
+  .nikita_plyus:hover {
+    color: rgb(79, 87, 87);
+  }
+
   .main_rk2 {
     /* Rectangle */
     position: absolute;
@@ -1332,6 +1344,9 @@ body {
     right: -165px;
     top: 277px;
     bottom: -1777px;
+  }
+  .ver3:hover {
+    color: rgb(4, 46, 32);
   }
   .ver4 {
     position: absolute;

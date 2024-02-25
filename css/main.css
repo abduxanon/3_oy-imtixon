@@ -469,6 +469,7 @@ body a {
   line-height: 100px;
   letter-spacing: 0px;
   text-align: left;
+  color: #fff;
 }
 .header-container .talant {
   color: rgb(246, 126, 126);
@@ -1090,6 +1091,9 @@ body a {
   letter-spacing: 0px;
   text-align: left;
 }
+.footer .nav-item-li:hover {
+  color: aqua;
+}
 .footer .nav_div {
   /* Group 3 */
   position: absolute;
@@ -1122,6 +1126,9 @@ body a {
   bottom: 76px;
   display: flex;
   gap: 15px;
+}
+.footer .olp:hover {
+  background-color: aqua;
 }
 .footer .pl {
   left: 10px;
@@ -1377,6 +1384,9 @@ body a {
   top: 225px;
   bottom: -225px;
 }
+.main .nikita_plyus:hover {
+  color: rgb(79, 87, 87);
+}
 .main .main_rk2 {
   /* Rectangle */
   position: absolute;
@@ -1626,6 +1636,9 @@ body a {
   right: -165px;
   top: 277px;
   bottom: -1777px;
+}
+.main2 .ver3:hover {
+  color: rgb(4, 46, 32);
 }
 .main2 .ver4 {
   position: absolute;
