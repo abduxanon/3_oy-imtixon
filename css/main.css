@@ -1632,6 +1632,400 @@ body a {
   bottom: -1777px;
 }
 
+.sektion5 {
+  /* Mask */
+  position: absolute;
+  width: 1440px;
+  height: 200px;
+  left: 0;
+  right: 0;
+  top: 2006px;
+  bottom: -1956px;
+  background: rgb(246, 126, 126);
+}
+.sektion5 .our {
+  /* Oval Copy 2 */
+  position: absolute;
+  width: 200px;
+  height: 150px;
+  left: 0;
+  right: 0;
+  top: 50px;
+  bottom: -2056px;
+}
+.sektion5 .uor {
+  /* Group 34 */
+  position: relative;
+  width: 917px;
+  height: 48px;
+  left: 290px;
+  top: 80px;
+}
+.sektion5 .qwer {
+  /* Ready to get started */
+  position: absolute;
+  width: 504px;
+  height: 48px;
+  left: 0%;
+  right: 45.04%;
+  top: 0;
+  bottom: 0;
+  color: rgb(1, 47, 52);
+  font-family: Livvic;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.sektion5 .rew {
+  /* Rectangle */
+  position: absolute;
+  width: 153px;
+  height: 48px;
+  left: 760px;
+  top: 0;
+  box-sizing: border-box;
+  border: 2px solid rgb(1, 47, 52);
+  border-radius: 24px;
+}
+.sektion5 .qaz {
+  /* contact us */
+  position: absolute;
+  width: 88px;
+  height: 28px;
+  left: 20.92%;
+  right: 21.57%;
+  top: 7px;
+  bottom: 11px;
+  color: rgb(1, 47, 52);
+  font-family: Livvic;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.about_foter {
+  /* Rectangle Copy 3 */
+  position: absolute;
+  width: 1440px;
+  height: 196px;
+  left: 0;
+  right: 0;
+  top: 2206px;
+  bottom: -2156px;
+  background: rgb(0, 37, 41);
+}
+.about_foter .about_foter-ichki {
+  /* Group 32 */
+  position: relative;
+  width: 1110px;
+  height: 100px;
+  left: 150px;
+  top: 60px;
+}
+.about_foter .divcha {
+  /* Group 3 */
+  position: absolute;
+  width: 140px;
+  height: 28px;
+  left: 0%;
+  right: 80.82%;
+  top: 65%;
+  bottom: 7%;
+  display: flex;
+}
+.about_foter .about_list {
+  display: flex;
+  gap: 20px;
+}
+.about_foter .about_item {
+  width: 51px;
+  height: 28px;
+  left: 63.57%;
+  right: 0%;
+  top: 0;
+  bottom: 0;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.about_foter .sd {
+  /* 987 Hillcrest Lane I */
+  position: absolute;
+  width: 445px;
+  height: 100px;
+  left: 39.04%;
+  right: 0%;
+  top: 0;
+  bottom: 0;
+  opacity: 0.6;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.about_foter .opq {
+  /* Path */
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1037px;
+  top: 0%;
+  bottom: 0%;
+}
+.about_foter .ilp {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1077px;
+}
+.about_foter .lo {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1117px;
+}
+.about_foter .plo {
+  /* Copyright 2020. All */
+  position: absolute;
+  width: 255px;
+  height: 25px;
+  left: 77.03%;
+  right: 0%;
+  top: 75px;
+  bottom: 0;
+  opacity: 0.6;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0px;
+  text-align: right;
+}
+
+.kontakt {
+  /* Mask */
+  position: absolute;
+  width: 1440px;
+  height: 789px;
+  left: 0%;
+  right: 0%;
+  top: 10%;
+  bottom: 0%;
+  background: rgb(1, 78, 86);
+}
+.kontakt .kotakt_header {
+  /* Group 29 */
+  position: absolute;
+  width: 1110px;
+  height: 48px;
+  left: 165px;
+  right: 165px;
+  top: 73px;
+  bottom: 864px;
+}
+.kontakt .kontakt_list {
+  display: flex;
+  gap: 25px;
+}
+.kontakt .kontakt_item {
+  width: 51px;
+  height: 28px;
+  left: 63.57;
+  right: 0%;
+  top: 0;
+  bottom: 0;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.kontakt .pls {
+  margin-left: 230px;
+  margin-top: -35px;
+}
+.kontakt .kontakt_btn {
+  /* Rectangle */
+  position: absolute;
+  width: 153px;
+  height: 48px;
+  left: 957px;
+  top: 0;
+  box-sizing: border-box;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 24px;
+}
+.kontakt .kontakt-p {
+  /* contact us */
+  position: absolute;
+  width: 88px;
+  height: 28px;
+  left: 20.92%;
+  right: 21.57%;
+  top: 9px;
+  bottom: 11px;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.kontakt .dumalog77 {
+  /* Oval Copy 2 */
+  position: absolute;
+  left: -165px;
+  top: 185px;
+}
+.kontakt .kontakt_ichki1 {
+  /* Group 25 */
+  position: absolute;
+  width: 1112px;
+  height: 428px;
+  left: 15px;
+  right: 163px;
+  top: 191px;
+  bottom: 316px;
+}
+.kontakt .contact {
+  width: 350px;
+  height: 100px;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 100px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.kontakt .about_t {
+  color: rgb(246, 126, 126);
+  font-family: Livvic;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.kontakt .brat_div {
+  /* Group 21 */
+  position: absolute;
+  width: 540px;
+  height: 72px;
+  top: 180px;
+  display: flex;
+}
+.kontakt .btat_l {
+  margin-top: 20px;
+}
+.kontakt .brat-p {
+  position: absolute;
+  width: 445px;
+  height: 28px;
+  left: 13%;
+  right: 0%;
+  top: 30px;
+  bottom: 0;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.kontakt .brat_div2 {
+  /* Group 21 */
+  position: absolute;
+  width: 540px;
+  height: 72px;
+  top: 257px;
+  display: flex;
+}
+.kontakt .btat_2 {
+  margin-top: 20px;
+}
+.kontakt .brat-p2 {
+  position: absolute;
+  width: 445px;
+  height: 28px;
+  left: 13%;
+  right: 0%;
+  top: 30px;
+  bottom: 0;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.kontakt .brat_div3 {
+  /* Group 21 */
+  position: absolute;
+  width: 540px;
+  height: 72px;
+  top: 330px;
+  display: flex;
+}
+.kontakt .btat_3 {
+  margin-top: 20px;
+}
+.kontakt .brat-p3 {
+  position: absolute;
+  width: 445px;
+  height: 28px;
+  left: 13%;
+  right: 0%;
+  top: 30px;
+  bottom: 0;
+  color: rgb(255, 255, 255);
+  font-family: Livvic;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.footer_kontakt {
+  /* Rectangle Copy 3 */
+  position: absolute;
+  width: 1440px;
+  height: 196px;
+  left: 0;
+  right: 0;
+  top: 960px;
+  bottom: -789px;
+  background: rgb(0, 37, 41);
+}
+
+.foter_kontakt-ichki {
+  /* Group 32 */
+  position: relative;
+  width: 1110px;
+  height: 100px;
+  left: 160px;
+  top: 45px;
+  background-color: aqua;
+}
+
 * {
   margin: 0;
   padding: 0;
