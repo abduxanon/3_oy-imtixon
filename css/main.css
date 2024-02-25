@@ -1091,9 +1091,6 @@ body a {
   letter-spacing: 0px;
   text-align: left;
 }
-.footer .nav-item-li:hover {
-  color: aqua;
-}
 .footer .nav_div {
   /* Group 3 */
   position: absolute;
@@ -1384,9 +1381,6 @@ body a {
   top: 225px;
   bottom: -225px;
 }
-.main .nikita_plyus:hover {
-  color: rgb(79, 87, 87);
-}
 .main .main_rk2 {
   /* Rectangle */
   position: absolute;
@@ -1636,9 +1630,6 @@ body a {
   right: -165px;
   top: 277px;
   bottom: -1777px;
-}
-.main2 .ver3:hover {
-  color: rgb(4, 46, 32);
 }
 .main2 .ver4 {
   position: absolute;
@@ -2057,7 +2048,6 @@ body a {
   right: -165px;
   top: 0px;
   bottom: -233px;
-  background-color: antiquewhite;
 }
 .kontakt .laq {
   /* Rectangle */
@@ -2072,58 +2062,46 @@ body a {
   background: rgb(255, 255, 255);
 }
 .kontakt .name {
-  /* Name */
-  position: absolute;
-  width: 445px;
-  height: 25px;
-  left: 2.59%;
-  right: 15%;
-  top: 0;
-  bottom: 17px;
+  width: 100%;
+  outline: 0;
+  border: 0;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  padding: 2px 10px;
+  background: transparent;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
   opacity: 0.6;
   color: rgb(255, 255, 255);
-  font-family: Livvic;
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 25px;
-  letter-spacing: -0.12px;
-  text-align: left;
 }
 .kontakt .email {
   /* Name */
-  position: absolute;
-  width: 445px;
-  height: 25px;
-  left: 2.59%;
-  right: 15%;
+  width: 100%;
+  outline: 0;
+  border: 0;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  padding: 12px 10px;
+  background: transparent;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
   top: 50px;
   bottom: 17px;
-  opacity: 0.6;
+  opacity: 0.9;
   color: rgb(255, 255, 255);
-  font-family: Livvic;
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 25px;
-  letter-spacing: -0.12px;
-  text-align: left;
 }
 .kontakt .conpany {
   /* Name */
-  position: absolute;
-  width: 445px;
-  height: 25px;
-  left: 2.59%;
-  right: 15%;
-  top: 80px;
-  bottom: 17px;
-  opacity: 0.6;
+  width: 100%;
+  outline: 0;
+  border: 0;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  padding: 12px 10px;
+  background: transparent;
+  font-size: 20px;
   color: rgb(255, 255, 255);
-  font-family: Livvic;
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 25px;
-  letter-spacing: -0.12px;
-  text-align: left;
+  top: 50px;
+  bottom: 17px;
+  opacity: 0.9;
+  color: rgb(255, 255, 255);
 }
 .kontakt .nav_list:hover {
   color: rgb(9, 87, 87);
@@ -2131,39 +2109,33 @@ body a {
 }
 .kontakt .title {
   /* Name */
-  position: absolute;
-  width: 445px;
-  height: 25px;
-  left: 2.59%;
-  right: 15%;
-  top: 100px;
-  bottom: 17px;
-  opacity: 0.6;
+  width: 100%;
+  outline: 0;
+  border: 0;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  padding: 12px 10px;
+  background: transparent;
+  font-size: 20px;
   color: rgb(255, 255, 255);
-  font-family: Livvic;
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 25px;
-  letter-spacing: -0.12px;
-  text-align: left;
+  top: 50px;
+  bottom: 17px;
+  opacity: 0.9;
+  color: rgb(255, 255, 255);
 }
 .kontakt .mesage {
   /* Name */
-  position: absolute;
-  width: 445px;
-  height: 25px;
-  left: 2.59%;
-  right: 15%;
-  top: 120px;
-  bottom: 17px;
-  opacity: 0.6;
+  width: 100%;
+  outline: 0;
+  border: 0;
+  border-bottom: 2px solid rgb(255, 255, 255);
+  padding: 12px 10px;
+  background: transparent;
+  font-size: 20px;
   color: rgb(255, 255, 255);
-  font-family: Livvic;
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 25px;
-  letter-spacing: -0.12px;
-  text-align: left;
+  top: 50px;
+  bottom: 17px;
+  opacity: 0.9;
+  color: rgb(255, 255, 255);
 }
 .kontakt .brbalo {
   /* submit */
@@ -2176,11 +2148,15 @@ body a {
   bottom: 11px;
   color: rgb(0, 64, 71);
   font-family: Livvic;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   line-height: 28px;
   letter-spacing: 0px;
   text-align: left;
+}
+.kontakt .laq {
+  position: absolute;
+  top: 280px;
 }
 
 .footer_kontakt {
@@ -2190,7 +2166,7 @@ body a {
   height: 196px;
   left: 0;
   right: 0;
-  top: 960px;
+  top: 900px;
   bottom: -789px;
   background: rgb(0, 37, 41);
 }
