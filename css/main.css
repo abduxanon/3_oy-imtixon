@@ -2166,17 +2166,83 @@ body a {
   height: 196px;
   left: 0;
   right: 0;
-  top: 900px;
+  top: 1290px;
   bottom: -789px;
   background: rgb(0, 37, 41);
 }
 
+@media (max-width: 760px) {
+  .footer_kontakt {
+    position: absolute;
+    width: 760px;
+    height: 271px;
+    top: 1080px;
+  }
+  .kontakt {
+    position: absolute;
+    width: 760px;
+    height: 1000px;
+  }
+  .kontakt_logo {
+    position: absolute;
+    width: 127px;
+    height: 32px;
+    margin-left: -130px;
+  }
+  .kontakt_item {
+    max-width: 49px;
+    max-height: 28px;
+    margin-top: 37px;
+    margin-left: -130px;
+  }
+  .kontakt_btn {
+    max-width: 153px;
+    max-height: 48px;
+    margin-left: -560px;
+  }
+  .dumalog77 {
+    margin-top: -80px;
+  }
+  .contact {
+    max-width: 248px;
+    max-height: 56px;
+    margin-top: -110px;
+  }
+  .about_t {
+    max-width: 200px;
+    max-height: 48px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .brat_div {
+    margin-top: -160px;
+    margin-left: -35px;
+  }
+  .brat_div2 {
+    margin-top: -170px;
+    margin-left: -35px;
+  }
+  .brat_div3 {
+    margin-top: -180px;
+    margin-left: -35px;
+  }
+  .qwa {
+    margin-left: -700px;
+    margin-top: 300px;
+  }
+  .foter_k-link {
+    margin-left: -100px;
+    max-width: 95px;
+    max-height: 25px;
+    margin-top: -90px;
+  }
+}
 .foter_kontakt-ichki {
   /* Group 32 */
   position: relative;
   width: 1110px;
   height: 100px;
-  left: 160px;
+  left: 140px;
   top: 45px;
 }
 .foter_kontakt-ichki .foter_k_logo {
@@ -2184,7 +2250,7 @@ body a {
   position: absolute;
   width: 159.95px;
   height: 40px;
-  left: 0%;
+  left: -110px;
   right: 0.03%;
   top: 0%;
   bottom: 0%;
